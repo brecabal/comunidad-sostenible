@@ -1,0 +1,297 @@
+.logo{
+	width: 50%;
+}
+
+a{
+	text-decoration: none;
+	color: #000;
+	text-align: center;
+	padding: 0 20px;
+	position: relative;
+	top: 30px;
+	color: #C8BBBB;
+
+}
+
+.semilla{
+	width: 100%;
+	
+}
+
+.fondo-color{
+	background-color:#E6E2E2;
+	height: 250px;
+}
+
+.parrafo-color{
+	text-align: center;
+	margin-top: 50px;
+}
+
+.imagen-mision{
+	width: 30%;
+	margin-top:50px;
+	margin-left:170px;
+	padding:30px;
+
+}
+
+.titulo-iconos{
+	text-align: center;
+	padding:20px;
+}
+
+.parrafo-iconos{
+	text-align: center;
+	padding-left: 20px;
+
+}
+
+.foto-charla{
+	background: url(../img/metodo.JPG);
+	width:49%;
+	height:498px;
+	margin-top: 20px;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.fondo-green{
+	background: url(../img/fondo.jpg);
+	width:51%;
+	height:502px;
+	margin-top: 20px;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.metodologia{
+	width: 10%;
+	margin-left:310px;
+	margin-top: 100px;
+}
+
+.titulo-green{
+	text-align: center;
+	color: #fff;
+	padding: 20px;
+}
+
+.parrafo-green{
+	text-align: center;
+	color: #fff;
+	padding: 0 40px;
+}
+
+.titulo-imagen{
+	text-align: center;
+	font-size: 20px;
+	padding: 30px;
+}
+
+.parrafo-imagen{
+	text-align: center;
+	padding-bottom:30px;
+}
+
+.imagen{
+	width: 40%;
+	margin-left: 100px;
+}
+
+
+.titulo-imagen{
+	text-align: center;
+	width: 50%;
+	margin-left: 60px;
+}
+
+.titulo-imagen1{
+	width: 60%;
+	margin-top: 20px;
+	margin-left:60px;
+	padding: 10px;
+	font-size: 20px;
+	text-align: center;
+}
+
+.parrafo-imagen1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.titulo-imagen4{
+	width: 70%;
+	margin-top: 20px;
+	margin-left:60px;
+	padding: 10px;
+	font-size: 20px;
+	text-align: center;
+}
+
+.parrafo-imagen4{
+	text-align: center;
+	
+}
+
+.parrafo-imagen{
+	text-align: center;
+}
+
+.fondo-proyecto{
+	background-color: #076118;
+}
+
+.titulo-proyecto{
+	color: #fff;
+	text-align: center;
+	padding:30px;
+}
+
+.subtitulo-proyecto{
+	color: #fff;
+	padding:18px 40px;
+}
+
+.subtitulo-proyecto1{
+	color: #fff;
+	padding:5px 40px;
+}
+
+.parrafo-proyecto{
+	color: #fff;
+	padding-left:40px;
+
+}
+
+.imagen-proyecto{
+	width:100%;
+	padding: 20px;
+}
+
+.titulo-equipo{
+	text-align: center;
+	color: #029917;
+	font-size: 20px;
+	padding:30px 0;
+}
+
+.imagen-equipo{
+	border-radius: 100%;
+	width: 50%;
+	margin-left:140px;
+}
+
+.nombre-equipo{
+	text-align: center;
+}
+
+.cargo-equipo{
+	text-align: center;
+	padding:20px;
+}
+
+.parrafo-equipo{
+	text-align: center;
+	padding-left: 20px;
+}
+
+.icono-equipo{
+	width: 10%;
+	position: relative;
+	left:160px;
+	padding:10px;
+}
+
+.fondo-blog{
+	background-image: url(../img/fondo2.jpg);
+}
+
+.slider-left{
+	width:3%;
+	position: relative;
+	left: 20px;
+	top: 200px;
+}
+
+.slider-right{
+	width:3%;
+	position: relative;
+	left: 1220px;
+	top: 200px;
+}
+
+.titulo-blog{
+	text-align: center;
+	font-size:30px;
+	padding: 20px;
+}
+
+.imagen-blog{
+	width:80%;
+}
+
+.subtitulo-blog{
+	color: #9B9696;
+	font-size: 25px;
+}
+
+.fecha-blog{
+	color: #9B9696;
+}
+
+.parrafo-blog{
+	color: #9B9696;
+	padding: 20px 0;
+}
+
+.fondo-redes{
+	background-color: #504E4E;
+	height: 250px;
+}
+
+.iconos-redes{
+	width: 20%;
+	padding: 10px 20px;
+	
+}
+
+.redes{
+	float: left;
+	padding: 20px;
+	color: #fff;
+}
+
+.borde-redes{
+	border:2px solid #fff;
+	width: 20%;
+	margin: 20px 0;
+	height: 200px;
+}
+
+footer{
+	background-color: #fff;
+	height: 100px;
+}
+
+.parrafo-footer{
+	color: #A9A5A5;
+	padding:10px 0px;
+}
+
+.parrafo-footer1{
+	color: #F9D904;
+	margin-bottom:5px;
+}
+
+.parrafo-footer2{
+	color:#2F2E2E;
+	margin-left:350px;
+	margin-top: 10px;
+}
+
+.numero-footer{
+	color:#A9A5A5;
+	margin-left:350px;
+	margin-bottom: 10px;
+}
